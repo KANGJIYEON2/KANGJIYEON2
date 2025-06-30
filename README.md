@@ -1,13 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/your_rainbow_image.png" width="600" alt="무지개 보노보노" />
-</p>
-
-<h1 align="center">
+<h1 align="center" style="font-family: 'Comic Sans MS', 'DungGeunMo', sans-serif;">
   💻 컴퓨터가 좋아요 💻
 </h1>
 
 <p align="center">  
-  요즘은 <strong>JAVA</strong>랑 <strong>LINUX</strong>를 공부중이에요... ✍️  
-  <br/>
-  앞으로 더 많이 배우고 싶어요 🌱
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=24&duration=2000&color=447FF7&center=true&vCenter=true&width=400&lines=열코딩중...✍️" />
+</p> 
