@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=30&duration=3000&center=true&vCenter=true&width=500&gradient=true&lines=JAVA+%EC%97%90+%EC%97%B4%EC%A0%95+%ED%95%9C%EC%8A%A4%ED%91%BC+✍️;하루하루+조금씩+자라가는+중+🌱" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=30&duration=3000&center=true&vCenter=true&width=500&gradient=true&lines=JAVA+%EC%97%90+%EC%97%B4%EC%A0%95+%ED%95%9C%EC%8A%A4%ED%91%BC+✍️;하루하루+조금씩+성장하는+중+🌱" />
 </p>
 
 <p align="center">
