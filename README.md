@@ -7,32 +7,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=30&duration=3000&center=true&vCenter=true&width=500&gradient=true&lines=반짝이는+아이디어를+코드로+구현해요+💡;어제보다+나은+오늘을+만듭니다+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Myeongjo&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&gradient=true&lines=성장을+통해+어제보다+나아갑니다+🌱;나눔의+가치를+실현하는+개발자+🤝" />
 </p>
-
----
-
-### 🌱 About Me
-
-> **기술과 사람을 통해 함께 성장하는 것에 큰 기쁨을 느낍니다.**
-> 
-> 사용자의 입장에서 먼저 생각하고, 긍정적인 경험을 주는 서비스를 만들기 위해<br>
-> 끊임없이 배우고 고민하는 개발자가 되겠습니다.
-
-<br>
-
-### 📫 Contact
-
-<p align="center">
-  <a href="mailto:hihello516@naver.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
-  <a href="https://hihello516.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
-  </a>
-</p>
-
----
 
 ### 📊 My GitHub Stats
 
